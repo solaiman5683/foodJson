@@ -1,0 +1,193 @@
+[
+	{
+		"_id": "6167d0eb22d7f061e1d0bea3",
+		"isActive": false,
+		"price": "$7.08",
+		"image": "https://i.ibb.co/R2qm0qC/breakfast6.png",
+		"foodName": "Bagel and cream cheese",
+		"catagory": "breakfast",
+		"resturent": "TOURMANIA",
+		"description": "Mollit ullamco labore mollit consequat ex voluptate fugiat Lorem pariatur ullamco quis elit cillum adipisicing. Est sunt irure fugiat esse consectetur est amet nostrud eiusmod ad labore voluptate eu ex. Ex labore reprehenderit Lorem mollit adipisicing consectetur. Amet culpa cillum qui do aliqua magna consequat elit duis eu velit dolore elit. Aliqua non ea veniam consequat anim consectetur cillum officia. Ea quis magna ullamco eiusmod cillum fugiat commodo ullamco laboris minim mollit. Officia exercitation pariatur excepteur officia quis duis.\r\n"
+	},
+	{
+		"_id": "6167d0ebd5480e52617af2d2",
+		"isActive": false,
+		"price": "$7.44",
+		"image": "https://i.ibb.co/sPhfxhG/breakfast1.png",
+		"foodName": "Breakfast sandwich",
+		"catagory": "breakfast",
+		"resturent": "SPRINGBEE",
+		"description": "Et eu adipisicing ipsum pariatur adipisicing aliqua magna aliquip et nostrud pariatur id aliquip cupidatat. Labore nulla esse ad occaecat. Anim cupidatat occaecat minim deserunt qui non aliquip id ex cupidatat. Pariatur aliquip qui veniam fugiat est aliquip quis culpa. Velit proident irure elit nisi dolore. Mollit in duis do aliquip consequat incididunt in occaecat. Sunt adipisicing incididunt velit minim.\r\n"
+	},
+	{
+		"_id": "6167d0eb5a0f57288ea8cb40",
+		"isActive": true,
+		"price": "$9.80",
+		"image": "https://i.ibb.co/52s5MsJ/breakfast2.png",
+		"foodName": "Baked Chiken",
+		"catagory": "breakfast",
+		"resturent": "KEGULAR",
+		"description": "Proident cillum culpa pariatur proident aliquip do ullamco nostrud nostrud aliquip ea. Amet aute ut duis deserunt dolor enim in voluptate qui velit labore laborum aliqua ut. Sunt exercitation culpa ea officia commodo aliquip do. Voluptate ullamco in commodo exercitation.\r\n"
+	},
+	{
+		"_id": "6167d0ebef54a851a680b7d6",
+		"isActive": false,
+		"price": "$11.01",
+		"image": "https://i.ibb.co/HzpqGRr/breakfast5.png",
+		"foodName": "Full Breakfast Fried Egg Toast Brunch",
+		"catagory": "breakfast",
+		"resturent": "FOSSIEL",
+		"description": "Velit qui in occaecat pariatur labore adipisicing voluptate ullamco enim magna ut veniam qui pariatur. Pariatur nulla fugiat amet eiusmod minim tempor reprehenderit minim exercitation tempor. Magna ex ut anim enim laborum irure elit excepteur proident laborum ea eiusmod adipisicing sint. Minim quis proident sit sunt adipisicing pariatur eiusmod aliquip. Pariatur cillum exercitation ex anim dolor ex nostrud aute pariatur nulla Lorem sit do. Deserunt culpa tempor proident elit pariatur adipisicing consequat velit laboris dolor reprehenderit quis.\r\n"
+	},
+	{
+		"_id": "6167d0eb848aab246e90ef27",
+		"isActive": false,
+		"price": "$9.41",
+		"image": "https://i.ibb.co/nkz0dBC/breakfast3.png",
+		"foodName": "Toast Croissant Fried egg",
+		"catagory": "breakfast",
+		"resturent": "GENESYNK",
+		"description": "Consequat tempor officia proident duis nostrud quis proident. Dolor commodo ad excepteur sunt dolor mollit ullamco qui labore. Aliquip qui incididunt nulla et mollit laboris quis excepteur aute. Pariatur occaecat consectetur minim ullamco. Minim ullamco duis elit qui consequat. Duis aute nulla ut Lorem do dolore ipsum magna do elit amet deserunt. Qui nostrud id eiusmod sint veniam irure anim excepteur amet sint sit amet velit.\r\n"
+	},
+	{
+		"_id": "6167d0ebfc0c2434b60c85c7",
+		"isActive": true,
+		"price": "$11.42",
+		"image": "https://i.ibb.co/0VMkrLL/breakfast4.png",
+		"foodName": "Eggs Benedict",
+		"catagory": "breakfast",
+		"resturent": "MEDMEX",
+		"description": "Amet sit quis esse culpa ea esse ea consequat incididunt. Consectetur incididunt irure est et dolor Lorem. Occaecat fugiat ea mollit in eiusmod excepteur magna officia. Culpa esse non sunt incididunt est cillum nisi et elit pariatur officia mollit sunt. Voluptate aute aliquip est consequat aliquip sint culpa in ullamco laborum. Fugiat eu voluptate nostrud minim in laboris et eu Lorem voluptate cillum dolore fugiat. In magna id excepteur ad id officia ex fugiat tempor labore consequat dolore nisi.\r\n"
+	},
+	{
+		"_id": "6167d0ebfed69df58f8f83c3",
+		"isActive": true,
+		"price": "$9.82",
+		"image": "https://i.ibb.co/0VMkrLL/breakfast4.png",
+		"foodName": "Breakfast Benedict",
+		"catagory": "breakfast",
+		"resturent": "ANIXANG",
+		"description": "Qui est in do laboris et incididunt sunt consectetur incididunt aliquip magna veniam do. Elit sunt mollit ad id tempor eiusmod do laboris est eiusmod labore aliqua. Officia laborum do voluptate elit consectetur minim exercitation est veniam id Lorem. Aliqua irure deserunt sunt do.\r\n"
+	},
+
+	{
+		"_id": "6167d26d33b528639fc7dc9f",
+		"isActive": true,
+		"price": "$10.58",
+		"image": "https://i.ibb.co/FnbkNCQ/dinner6.png",
+		"foodName": "Baked Chiken",
+		"catagory": "dinner",
+		"resturent": "OULU",
+		"description": "Nisi laborum esse cillum in incididunt adipisicing. Officia elit aute amet fugiat do nisi laborum labore aliquip dolor minim aute elit anim. Tempor reprehenderit minim ut sunt ex magna. In labore qui est ex eiusmod pariatur consectetur Lorem anim. Dolore fugiat aute proident dolore proident proident nostrud duis duis pariatur anim occaecat est ad. Culpa sint sint ipsum ad est esse duis aute esse esse.\r\n"
+	},
+	{
+		"_id": "6167d26da26f13857f29b93c",
+		"isActive": false,
+		"price": "$11.25",
+		"image": "https://i.ibb.co/SnPQJtM/dinner5.png",
+		"foodName": "Garlic Butter Baked Salmon",
+		"catagory": "dinner",
+		"resturent": "SCENTY",
+		"description": "In ullamco proident labore nostrud dolor labore sunt in. Ad consectetur ad ea esse proident pariatur duis magna deserunt pariatur labore exercitation velit. Sit qui magna excepteur quis exercitation anim reprehenderit in. Qui aute fugiat cupidatat laboris cillum nulla exercitation quis dolor mollit laboris. Aliquip voluptate exercitation sit anim non incididunt do pariatur.\r\n"
+	},
+	{
+		"_id": "6167d26dd543330ad63ed143",
+		"isActive": false,
+		"price": "$8.44",
+		"image": "https://i.ibb.co/N3X9CK9/dinner4.png",
+		"foodName": "French fries wirh cheese",
+		"catagory": "dinner",
+		"resturent": "KRAG",
+		"description": "Laborum laboris ea ad exercitation irure fugiat qui et id elit ullamco aute aliqua. Ex Lorem mollit aute duis qui dolore in mollit et enim ut. Enim sit non laborum dolor ea non id quis dolore dolore laborum.\r\n"
+	},
+	{
+		"_id": "6167d26d1d9e73b58227a413",
+		"isActive": true,
+		"price": "$9.60",
+		"image": "https://i.ibb.co/bb9n7c8/dinner1.png",
+		"foodName": "Salmon with Grapefruit and Lentil Salad",
+		"catagory": "dinner",
+		"resturent": "TUBESYS",
+		"description": "Quis sint elit anim ullamco est. Proident deserunt sit aliquip eu aliqua ad. Amet fugiat pariatur occaecat officia eiusmod non laboris dolor.\r\n"
+	},
+	{
+		"_id": "6167d26d4b30af28078941ce",
+		"isActive": true,
+		"price": "$8.20",
+		"image": "https://i.ibb.co/FmQZszv/dinner2.png",
+		"foodName": "Lemony Salmon Piccate",
+		"catagory": "dinner",
+		"resturent": "EYERIS",
+		"description": "Dolore mollit minim et est exercitation quis voluptate adipisicing non magna eiusmod pariatur. Aute sit Lorem ullamco velit duis. Amet deserunt mollit officia labore commodo consequat deserunt duis eu.\r\n"
+	},
+	{
+		"_id": "6167d26dbb2a20a190e2170f",
+		"isActive": false,
+		"price": "$11.31",
+		"image": "https://i.ibb.co/GpJxC9N/dinner3.png",
+		"foodName": "Pork Tenderloin With Quinoa Pilaf",
+		"catagory": "dinner",
+		"resturent": "EVEREST",
+		"description": "Cupidatat velit aute et tempor ipsum. Occaecat duis cupidatat elit ea ut aliquip anim velit. Do nulla proident amet eu duis. Aliquip esse officia tempor nisi consectetur eu ea nulla dolor eu velit. Veniam excepteur laborum esse eu.\r\n"
+	},
+	{
+		"_id": "6167d387c36a0931bf087e28",
+		"isActive": false,
+		"price": "$9.99",
+		"image": "https://i.ibb.co/QkMbXcv/lunch1.png",
+		"foodName": "Healthy Meal Plan",
+		"catagory": "lunch",
+		"resturent": "ZEDALIS",
+		"description": "Non ex tempor nostrud velit occaecat ullamco id aliqua sit proident sint. Proident ullamco aute irure et consectetur. Nostrud elit consectetur qui minim ullamco duis nulla proident. Laboris et amet ipsum laborum consequat dolore cillum tempor.\r\n"
+	},
+	{
+		"_id": "6167d387f5ffd26b3bfde57b",
+		"isActive": false,
+		"price": "$9.07",
+		"image": "https://i.ibb.co/rxQgvfr/lunch2.png",
+		"foodName": "Fried Chicken Bento",
+		"catagory": "lunch",
+		"resturent": "ISOTERNIA",
+		"description": "Qui proident sunt laborum eu nostrud. Consectetur irure consequat cillum voluptate consectetur sunt ex sit voluptate nulla adipisicing. Consequat eu sunt nostrud aliqua id. Velit tempor consequat laboris culpa reprehenderit proident ex consequat Lorem non ea sunt velit. Dolore ea qui anim cillum cupidatat aliqua ullamco ipsum dolor anim reprehenderit. Tempor fugiat sint excepteur culpa exercitation reprehenderit consectetur aliqua sit Lorem.\r\n"
+	},
+	{
+		"_id": "6167d38779f6cd24284eaf7b",
+		"isActive": true,
+		"price": "$7.17",
+		"image": "https://i.ibb.co/jzmLVg0/lunch3.png",
+		"foodName": "Tarragon-Rubbed Salmon",
+		"catagory": "lunch",
+		"resturent": "DANJA",
+		"description": "Magna ex Lorem sit fugiat non fugiat tempor nisi anim laboris nisi eiusmod ex. Est esse velit veniam aliqua culpa cillum laboris duis esse velit anim laboris anim. Non labore in ut ad irure enim ea cillum do nisi magna dolor ad incididunt. Ex ad dolore consectetur adipisicing consequat qui tempor voluptate id dolore ad minim officia dolore. Eu voluptate et nostrud ullamco pariatur labore voluptate non dolor enim. Eu minim aliquip id enim cillum aliquip voluptate deserunt. Amet fugiat aliqua incididunt excepteur nulla non cupidatat sint cupidatat enim laboris eiusmod excepteur tempor.\r\n"
+	},
+	{
+		"_id": "6167d38714b0f2f98997839d",
+		"isActive": false,
+		"price": "$10.27",
+		"image": "https://i.ibb.co/wQWq8gj/lunch4.png",
+		"foodName": "Indian Lunch",
+		"catagory": "lunch",
+		"resturent": "PLAYCE",
+		"description": "Lorem eu nisi irure voluptate nisi tempor pariatur pariatur veniam officia consequat. Sit irure tempor sint eu sint ipsum elit ut pariatur. Enim consectetur labore reprehenderit exercitation commodo in esse dolor laboris sit do qui fugiat. In anim ad consectetur esse esse laborum. Et ex aliqua excepteur aliquip sunt.\r\n"
+	},
+	{
+		"_id": "6167d387f26f6d785653b56b",
+		"isActive": false,
+		"price": "$11.27",
+		"image": "https://i.ibb.co/xS9B9GH/lunch5.png",
+		"foodName": "Beef Steak",
+		"catagory": "lunch",
+		"resturent": "NAMEGEN",
+		"description": "Ex ullamco ea dolore nulla irure do nostrud eu consequat ad laborum do id ad. Cupidatat magna laboris dolore pariatur sint voluptate do adipisicing. Officia anim in voluptate irure. Ea cillum nisi anim est labore. Veniam ipsum reprehenderit anim Lorem pariatur Lorem magna. Eiusmod consectetur ut enim aute sunt elit veniam adipisicing amet eu aliqua.\r\n"
+	},
+	{
+		"_id": "6167d3877d364d1d0aa78a0d",
+		"isActive": true,
+		"price": "$11.65",
+		"image": "https://i.ibb.co/Gk6CybF/lunch6.png",
+		"foodName": "Honey Soy Glazed Salmon with Peppers",
+		"catagory": "lunch",
+		"resturent": "COWTOWN",
+		"description": "Fugiat eu fugiat elit ipsum non fugiat consectetur voluptate cupidatat. Lorem occaecat elit eiusmod officia veniam magna culpa fugiat in consequat velit cillum. Mollit esse consequat dolor reprehenderit amet laboris est amet officia fugiat aute dolor mollit. Duis id officia nisi exercitation occaecat do laborum ea tempor mollit ut.\r\n"
+	}
+]
