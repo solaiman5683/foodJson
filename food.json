@@ -60,17 +60,6 @@
 		"description": "Amet sit quis esse culpa ea esse ea consequat incididunt. Consectetur incididunt irure est et dolor Lorem. Occaecat fugiat ea mollit in eiusmod excepteur magna officia. Culpa esse non sunt incididunt est cillum nisi et elit pariatur officia mollit sunt. Voluptate aute aliquip est consequat aliquip sint culpa in ullamco laborum. Fugiat eu voluptate nostrud minim in laboris et eu Lorem voluptate cillum dolore fugiat. In magna id excepteur ad id officia ex fugiat tempor labore consequat dolore nisi.\r\n"
 	},
 	{
-		"_id": "6167d0ebfed69df58f8f83c3",
-		"isActive": true,
-		"price": "$9.82",
-		"image": "https://i.ibb.co/0VMkrLL/breakfast4.png",
-		"foodName": "Breakfast Benedict",
-		"catagory": "breakfast",
-		"resturent": "ANIXANG",
-		"description": "Qui est in do laboris et incididunt sunt consectetur incididunt aliquip magna veniam do. Elit sunt mollit ad id tempor eiusmod do laboris est eiusmod labore aliqua. Officia laborum do voluptate elit consectetur minim exercitation est veniam id Lorem. Aliqua irure deserunt sunt do.\r\n"
-	},
-
-	{
 		"_id": "6167d26d33b528639fc7dc9f",
 		"isActive": true,
 		"price": "$10.58",
