@@ -46,13 +46,5 @@
 		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/E1F77D4894984106D72884F947_1582973638053.jpg",
 		"treatment": "Conductive keratoplasty (CK) ",
 		"description": "This surgery is used to correct mild to moderate hyperopia. It uses heat from low-level radio waves to shrink the collagen and change the cornea's shape. A probe smaller than a strand of hair is used to apply the radio waves around the outer cornea. This creates a tight band. The band increases the curve of the cornea and improves vision. You must be age 40 or older to have this surgery. "
-	},
-	{
-		"_id": "616cff65e6da2e7fc26b2643",
-		"isActive": false,
-		"fee": 200.66,
-		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/iStock-1147641999.jpg",
-		"treatment": "Intracorneal rings (Intacs) ",
-		"description": "These are used to treat mild myopia. They are thin rings that are implanted into the cornea. They change the curve of the cornea and improve vision. "
 	}
 ]
