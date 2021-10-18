@@ -1,0 +1,58 @@
+[
+	{
+		"_id": "616cff65b1d4141b871e36a2",
+		"isActive": true,
+		"fee": 189.04,
+		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/16DAC9B5466A51CDF80186CD6D_1584962799362.jpg",
+		"treatment": "Photorefractive keratectomy",
+		"description": "This surgery is done with the same kind of excimer laser used for LASIK. PRK is done to reshape the cornea to correct mild to moderate nearsightedness (myopia). The excimer laser beam reshapes the cornea by removing tiny amounts of tissue from the outer surface. The procedure uses a computer to map the eye's surface. It also calculates how much tissue to remove. This surgery generally takes a few minutes. Because the cornea surface is removed, it takes a few weeks to heal.  "
+	},
+	{
+		"_id": "616cff659300bc4d247af24b",
+		"isActive": true,
+		"fee": 255.63,
+		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/47EEA68CD21EAA764AD8E056F7_1582973670046.jpg",
+		"treatment": "Radial keratotomy (RK)",
+		"description": "This procedure is used to correct mild myopia. Tiny cuts (incisions) called are made in the cornea with a diamond scalpel. The cuts flatten the center of the cornea and change its curve. This reduces refraction. Because the cornea is cut, it takes a few weeks to heal. This surgery was very common. But it has been nearly replaced by LASIK. "
+	},
+	{
+		"_id": "616cff65e6c58f70285a4dd7",
+		"isActive": true,
+		"fee": 452,
+		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/01730203E6CC6EDCE3DF95BF8B_1582973550420.jpg",
+		"treatment": "Astigmatic keratotomy (AK) ",
+		"description": "Astigmatic keratotomy (AK) is a lot like radial keratotomy (RK). This surgery is used to correct astigmatism. Instead of making radial incisions, the eye surgeon makes cuts in the cornea in a curved pattern. "
+	},
+	{
+		"_id": "616cff653ae47b3355fe5316",
+		"isActive": false,
+		"fee": 392.13,
+		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/76319C6D8651178228D6183CA2_1582973520766.jpg",
+		"treatment": "Automated lamellar keratoplasty (ALK)",
+		"description": "This is used for hyperopia and severe cases of myopia. For myopia, the eye surgeon cuts a flap across the front of the cornea with a special blade (microkeratome). The flap is folded to the side. A thin slice of tissue is removed from the surface of the cornea. This flattens the central cornea and reduces refraction. The flap is then put back in place. The flap reattaches itself without stitches. During ALK for hyperopia, the eye surgeon makes a deeper cut into the cornea with the microkeratome to make a flap. The pressure in the eye causes the corneal surface to stretch and bulge. The bulging cornea improves the optical power. This corrects the hyperopia. The flap is then put back in place. It reattaches without stitches. "
+	},
+	{
+		"_id": "616cff65e49748eef9f4f7b1",
+		"isActive": false,
+		"fee": 236.54,
+		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/666478F302FC7EEFE487F1EB6B_1584962783472.jpg",
+		"treatment": "Laser thermal keratoplasty (LTK) ",
+		"description": "This method applies heat from a laser to the edges of the cornea. This shrinks the collagen fibers and reshapes the cornea. You must be age 40 or older to have this surgery. "
+	},
+	{
+		"_id": "616cff65345e834b96b06a07",
+		"isActive": true,
+		"fee": 133.53,
+		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/E1F77D4894984106D72884F947_1582973638053.jpg",
+		"treatment": "Conductive keratoplasty (CK) ",
+		"description": "This surgery is used to correct mild to moderate hyperopia. It uses heat from low-level radio waves to shrink the collagen and change the cornea's shape. A probe smaller than a strand of hair is used to apply the radio waves around the outer cornea. This creates a tight band. The band increases the curve of the cornea and improves vision. You must be age 40 or older to have this surgery. "
+	},
+	{
+		"_id": "616cff65e6da2e7fc26b2643",
+		"isActive": false,
+		"fee": 200.66,
+		"image": "https://monnampo.sirv.com/Images/New%20folder%20(2)/iStock-1147641999.jpg",
+		"treatment": "Intracorneal rings (Intacs) ",
+		"description": "These are used to treat mild myopia. They are thin rings that are implanted into the cornea. They change the curve of the cornea and improve vision. "
+	}
+]
