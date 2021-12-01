@@ -29,7 +29,7 @@
 		"_id": "61a6sdgdsgd52b7f39b9f7438b8",
 		"picture": "https://monnampo.sirv.com/Images/Screenshot%202021-10-19%20at%2018-48-13%20Optic%20Repair%20The%20Specialized%20Eye%20Care%20Hospital.png",
 		"name": "Optic Repair",
-		"shortDes": "Eye Care Hospital Website - A fully responsive React project. This site is ",
+		"shortDes": "Eye Care Hospital Website - A fully responsive React project. This is a eye care hospital",
 		"description": "<h3 dir=\"auto\">With This Site, You Can -</h3><ul dir=\"auto\"><li>Login To your account.✔️</li><li>Register a new account.✔️</li><li>See what services we offer.✔️</li><li>Read service details on another page.✔️</li><li>Read Blog about Eye Care and Tips.✔️</li><li>Contact us.✔️</li><li>See our Location ✔️</li></ul><h3 dir=\"auto\"><a id=\"user-content-restrictions---\" class=\"anchor\" href=\"https://github.com/solaiman5683/optic_repair#restrictions---\" aria-hidden=\"true\"></a></h3><h3 dir=\"auto\">Restrictions - 🛑</h3><ol dir=\"auto\"><li>Users need to log in first to see our service Details page.</li><li>Users need to log in first to read our Blogs and Tips</li></ol>",
 		"time": "October - 2021",
 		"technologoyUsed": "Javascript(ES6), React, React Router, Reactstrap, Axios, ExpressJS, MongoDB, Heroku, Firebase Authentication, Firebase Hosting",
