@@ -1,0 +1,47 @@
+[
+	{
+		"_id": "61b83b565b4dea356fef8e2c",
+		"catagory": "Article",
+		"picture": "https://monnampo.sirv.com/Images/jobtaks/Rectangle%205.jpg",
+		"name": "What if famous brands had regular fonts? Meet RegulaBrands!",
+		"author": "Sarthak Kamra",
+		"author_img": "https://monnampo.sirv.com/Images/jobtaks/Rectangle%203.png",
+		"description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+		"views": "1.4k"
+	},
+	{
+		"_id": "61b83b568c8f461e0266553e",
+		"catagory": "Education",
+		"picture": "https://monnampo.sirv.com/Images/jobtaks/Rectangle%205.png",
+		"name": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+		"author": "Alberta Ray",
+		"author_img": "https://monnampo.sirv.com/Images/jobtaks/Rectangle%203(1).png",
+		"description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+		"views": "1.4k"
+	},
+	{
+		"_id": "61b83b56b979d9f1c99bf094",
+		"catagory": "Meetup",
+		"picture": "https://monnampo.sirv.com/Images/jobtaks/Rectangle%205(1).jpg",
+		"name": "Finance & Investment Elite Social Mixer @Lujiazui",
+		"author": "Hull Terry",
+		"author_img": "https://monnampo.sirv.com/Images/jobtaks/Rectangle%203(2).png",
+		"description": "",
+		"time": "Fri, 12 Oct, 2018",
+		"place": "Ahmedabad, India",
+		"views": "1.4k"
+	},
+	{
+		"_id": "61b83b5695ba1c39f752af04",
+		"catagory": "Software Developer",
+		"picture": "http://placehold.it/32x32",
+		"name": "Software Developer",
+		"author": "Alexander Moses",
+		"author_img": "https://monnampo.sirv.com/Images/jobtaks/Rectangle%203(3).png",
+		"description": "",
+		"time": "",
+		"company": "Innovaccer Analytics Private Ltd.",
+		"place": "Ahmedabad, India",
+		"views": "1.4k"
+	}
+]
