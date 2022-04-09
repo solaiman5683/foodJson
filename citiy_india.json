@@ -1,4 +1,5 @@
-[
+{
+    "cities": [
     {
         "City": "SGM",
         "State": "Rajasthan",
@@ -25803,5 +25804,5 @@
         "City": "Zunheboto",
         "State": "Nagaland",
         "District": "Zunheboto"
-    }
-]
+    }]
+}
